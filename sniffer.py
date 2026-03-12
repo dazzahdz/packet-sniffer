@@ -1,7 +1,7 @@
 from scapy.all import sniff, IP, TCP, UDP, ICMP  # Import packet capture and protocol layers from Scapy
 from datetime import datetime  # Import datetime to timestamp each captured packet
 
-LOG_FILE = "packets.log"  # File where captured packets will be saved
+LOG_FILE = "packets.txt"  # File where captured packets will be saved
 REPORT_FILE = "report.html"  # File where the HTML report will be saved
 packet_count = 0  # Counter to track total packets captured
 packets_data = []  # List to store packet info for the report
