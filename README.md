@@ -98,17 +98,7 @@ packet-sniffer/
 
 ---
 
-## 📖 What I Learned
-
-- How network packets are structured across layers (IP, TCP, UDP, ICMP)
-- Using Scapy for real-time packet capture and protocol parsing
-- Applying filtering logic to isolate specific types of network traffic
-- Generating dynamic HTML reports from captured data
-- Running privileged network operations on Windows with Npcap
-
----
-
 ## 👤 Author
 
-**Dazza**  
-Computer Science Graduate — Cybersecurity & Software Engineering  
+**Dazza Hernandez**  
+UTSA Computer Science Graduate — Cybersecurity & Software Engineering  
