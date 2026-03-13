@@ -4,7 +4,7 @@ A command-line network packet sniffer built with Python and Scapy that captures
 live network traffic, filters by protocol, logs packets to a file, and generates
 a formatted HTML report on exit.
 
-> ⚠️ **Disclaimer:** This tool is intended for educational purposes only.
+**Disclaimer:** This tool is intended for educational purposes only.
 > Only use it on networks you own or have explicit permission to monitor.
 
 ---
