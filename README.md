@@ -12,7 +12,7 @@ a formatted HTML report on exit.
 ## 📸 Screenshots
 
 ### Filter Selection
-![Filter Menu](screenshots/filter_menu.png)
+![Filter Menu](screenshots/filter_selection.png)
 
 ### Live Packet Capture
 ![Live Capture](screenshots/live_capture.png)
