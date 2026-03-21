@@ -17,11 +17,8 @@ a formatted HTML report on exit.
 ### Live Packet Capture
 ![Live Capture](screenshots/live_capture.png)
 
-### Exit Summary
-![Exit Summary](screenshots/exit_summary.png)
-
 ### HTML Report
-![HTML Report](screenshots/report.png)
+![HTML Report](screenshots/html_report.png)
 
 ---
 
