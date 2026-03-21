@@ -98,4 +98,4 @@ packet-sniffer/
 ## 👤 Author
 
 **Dazza Hernandez**  
-UTSA Computer Science Graduate — Cybersecurity & Software Engineering  
+UTSA Computer Science Graduate
